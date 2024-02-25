@@ -1,0 +1,11 @@
+.home{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.logoutbtn{
+    margin: 0 auto;
+    width: 120px;
+}
